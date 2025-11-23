@@ -1,0 +1,5 @@
+{
+  "name": "RupeeWise Expenses",
+  "description": "A comprehensive React expense tracker for Home and School finances with Gemini AI insights, charts, and PDF reporting.",
+  "requestFramePermissions": []
+}
